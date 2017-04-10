@@ -1,7 +1,3 @@
-local1
+local 
 
 github
-
-local2
-
-local3
